@@ -1,6 +1,11 @@
 # Specificity-Controlled-Generation
 Code for ACL 2018 paper "Learning to Control the Specificity in Neural Response Generation" 
 
+## Description
+```
+The code will be released soon.
+```
+
 ## Citation
 ```
 @inproceedings{zhang2018learning,
