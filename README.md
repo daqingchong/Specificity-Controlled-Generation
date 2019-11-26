@@ -1,6 +1,12 @@
 # Specificity-Controlled-Generation
 Code for ACL 2018 paper "Learning to Control the Specificity in Neural Response Generation" 
 
+# Requirements
+```
+tensorflow>=1.2.0,
+numpy>=1.16.0
+```
+
 ## Citation
 ```
 @inproceedings{zhang2018learning,
